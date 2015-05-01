@@ -873,3 +873,13 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: blue;
 }
+
+.techStackPics {
+    margin-top: 50px;
+}
+
+.techStackPic {
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
